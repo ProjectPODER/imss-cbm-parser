@@ -5,7 +5,7 @@ const CSV = require('csv-string');
 const optionDefinitions = [
     { name: 'file', alias: 'f', type: String },
     { name: 'type', alias: 't', type: String },
-    { name: 'cbm', alias: 'c', type: String, defaultValue: '' } // path to parsed CBM file to merge with CBMEI
+    { name: 'cbm', alias: 'c', type: String, defaultValue: '' } // path to parsed file to merge with new file
 ];
 const args = commandLineArgs(optionDefinitions);
 if(!args.type) {
