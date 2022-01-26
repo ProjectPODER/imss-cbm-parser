@@ -270,6 +270,7 @@
 010.000.1756.00,Melfalán. Tableta. Cada Tableta contiene: Melfalán 2 mg. Envase con 25 Tabletas,Pieza
 010.000.1758.00,Carmustina. Solución Inyectable. Cada frasco ámpula con liofilizado contiene: Carmustina 100 mg. Envase con un frasco ámpula y diluyente estéril (etanol absoluto) 3 ml,Pieza
 010.000.1759.00,Metotrexato. Tableta. Cada Tableta contiene: Metotrexato sódico equivalente a 2.5 mg de metotrexato. Envase con 50 Tabletas,Envase
+010.000.1759.01,Metotrexato. Tableta. Cada Tableta contiene: Metotrexato sódico equivalente a 2.5 mg de metotrexato. Envase con 50 Tabletas,Envase
 010.000.1760.00,METOTREXATO. SOLUCIÓN INYECTABLE. Cada frasco ámpula con liofilizado o solución contiene: Metotrexato sódico equivalente a 50 mg de metotrexato. Envase con un frasco ámpula,Envase
 010.000.1760.01,METOTREXATO. SOLUCIÓN INYECTABLE. Cada frasco ámpula con liofilizado o solución contiene: Metotrexato sódico equivalente a 50 mg de metotrexato. Envase con 10 frascos ámpula,Envase
 010.000.1761.00,Mercaptopurina. Tableta. Cada Tableta contiene: Mercaptopurina 50 mg. Envase con 20 Tabletas,Pieza
@@ -288,7 +289,9 @@
 010.000.1770.01,VINBLASTINA. SOLUCIÓN INYECTABLE. Cada frasco ámpula con solución inyectable contiene: sulfato de vinblastina 10 mg. Envase con 10 frascos ámpula,Envase
 010.000.1771.00,Procarbazina. Cápsula o Comprimido. Cada Cápsula o Comprimido contiene: Clorhidrato de procarbazina equivalente a 50 mg de procarbazina. Envase con 50 Cápsulas o Comprimidos,Pieza
 010.000.1773.00,Epirubicina. Solución Inyectable. Cada envase contiene: Clorhidrato de epirubicina 10 mg. Envase con un frasco ámpula con liofilizado o envase con un frasco ámpula con 5 ml de Solución (10 mg/5 ml),Pieza
+010.000.1773.03,Epirubicina. Solución Inyectable. Cada envase contiene: Clorhidrato de epirubicina 10 mg. Envase con un frasco ámpula con liofilizado o envase con un frasco ámpula con 5 ml de Solución (10 mg/5 ml),Pieza
 010.000.1774.00,Epirubicina. Solución Inyectable. Cada envase contiene: Clorhidrato de epirubicina 50 mg. Envase con un frasco ámpula con liofilizado o envase con un frasco ámpula con 25 ml de Solución (50 mg/25 ml),Pieza
+010.000.1774.03,Epirubicina. Solución Inyectable. Cada envase contiene: Clorhidrato de epirubicina 50 mg. Envase con un frasco ámpula con liofilizado o envase con un frasco ámpula con 25 ml de Solución (50 mg/25 ml),Pieza
 010.000.1775.00,Citarabina. Solución Inyectable. Cada frasco ámpula o frasco ámpula con liofilizado contiene: Citarabina 500 mg. Envase con un frasco ámpula o con un frasco ámpula con liofilizado,Pieza
 010.000.1776.00,Metotrexato. Solución Inyectable. Cada frasco ámpula con liofilizado contiene: Metotrexato sódico equivalente a 500 mg de metotrexato. Envase con un frasco ámpula,Pieza
 010.000.1903.00,Trimetoprima-sulfametoxazol. Comprimido o Tableta. Cada Comprimido o Tableta contiene: Trimetoprima 80 mg Sulfametoxazol 400 mg. Envase con 20 Comprimidos o Tabletas,Pieza
@@ -620,6 +623,7 @@
 010.000.3046.01,CISPLATINO. SOLUCIÓN INYECTABLE. El frasco ámpula con solución inyectable contiene: cisplatino 10 mg.. Envase con 10 frascos ámpula,Envase
 010.000.3047.00,Tamoxifeno. Tableta. Cada Tableta contiene: Citrato de tamoxifeno equivalente a 20 mg de tamoxifeno. Envase con 14 Tabletas,Pieza
 010.000.3048.00,Goserelina. Implante de Liberación Prolongada. Cada Implante contiene: Acetato de goserelina equivalente a 3.6 mg de goserelina base. Envase con Implante cilíndrico estéril en una jeringa lista para su aplicación,Pieza
+010.000.3048.03,Goserelina. Implante de Liberación Prolongada. Cada Implante contiene: Acetato de goserelina equivalente a 3.6 mg de goserelina base. Envase con Implante cilíndrico estéril en una jeringa lista para su aplicación,Pieza
 010.000.3049.00,Goserelina. Implante de Liberación Prolongada. Cada Implante contiene: Acetato de goserelina equivalente a 10.8 mg de goserelina. Envase con una jeringa que contiene un Implante cilíndrico estéril,Pieza
 010.000.3050.00,Bcg inmunoterapéutico. Suspensión. Cada frasco ámpula con liofilizado contiene: Bacilo de Calmette-Guerin 81.00 mg equivalente a 1.8X108-19.2X108 UFC (unidades formadoras de colonias). Envase con un frasco ámpula con liofilizado y un frasco ámpula de 3 ml de diluyente,Pieza
 010.000.3055.00,Leuprorelina. Suspensión Inyectable. Cada jeringa prellenada con polvo liofilizado o cada frasco ámpula con microesferas liofilizadas contiene: Acetato de leuprorelina 7.5 mg. Envase con jeringa prellenada con polvo liofilizado y jeringa prellenada con 0.3 ml con sistema de liberación,Pieza
@@ -728,8 +732,8 @@
 010.000.4024.01,Ezetimiba. Tableta. Cada Tableta contiene: Ezetimiba 10 mg. Envase con 10 Tabletas,Pieza
 010.000.4024.02,Ezetimiba. Tableta. Cada Tableta contiene: Ezetimiba 10 mg. Envase con 14 Tabletas,Pieza
 010.000.4024.03,Ezetimiba. Tableta. Cada Tableta contiene: Ezetimiba 10 mg. Envase con 21 Tabletas,Pieza
-010.000.4024.04,Ezetimiba. Tableta. Cada Tableta contiene: Ezetimiba 10 mg. Envase con 28 Tabletas,Pieza
 010.000.4024.05,Ezetimiba. Tableta. Cada Tableta contiene: Ezetimiba 10 mg. Envase con 30 Tabletas,Pieza
+010.000.4024.04,Ezetimiba. Tableta. Cada Tableta contiene: Ezetimiba 10 mg. Envase con 28 Tabletas,Pieza
 010.000.4025.00,Ezetimiba-simvastatina. Comprimido. Cada Comprimido contiene: Ezetimiba 10 mg Simvastatina 20 mg. Envase con 14 Comprimidos,Pieza
 010.000.4025.01,Ezetimiba-simvastatina. Comprimido. Cada Comprimido contiene: Ezetimiba 10 mg Simvastatina 20 mg. Envase con 28 Comprimidos,Pieza
 010.000.4028.00,Clonixinato de lisina. Solución inyectable. Cada ampolleta contiene: clonixinato de lisina 100 mg. nvase con 5 ampolletas de 2 ml,Pieza
@@ -1044,6 +1048,7 @@
 010.000.4431.00,CARBOPLATINO. SOLUCIÓN INYECTABLE. Cada frasco ámpula contiene: Carboplatino 150 mg. Envase con un frasco ámpula,Pieza
 010.000.4432.00,Ifosfamida. Solución Inyectable. Cada frasco ámpula con polvo o liofilizado contiene: Ifosfamida 1 g. Envase con un frasco ámpula,Envase
 010.000.4432.01,Ifosfamida. Solución Inyectable. Cada frasco ámpula con polvo o liofilizado contiene: Ifosfamida 1 g. Envase con 10 frascos ámpula,Envase
+010.000.4432.04,Ifosfamida. Solución Inyectable. Cada frasco ámpula con polvo o liofilizado contiene: Ifosfamida 1 g. Envase con 10 frascos ámpula,Envase
 010.000.4433.00,MESNA. SOLUCIÓN INYECTABLE. Cada ampolleta o frasco ámpula o vial contiene: Mesna 400 mg. Envase con 5 ampolletas o frascos ámpula o viales con 4 mL (100 mg/mL),Envase
 010.000.4434.00,Idarubicina. Solución Inyectable. Cada frasco ámpula contiene: Clorhidrato de idarubicina 5 mg. Envase con frasco ámpula con liofilizado o frasco ámpula con 5 ml (1 mg/ml),Pieza
 010.000.4435.00,Vinorelbina. Solución Inyectable. Cada frasco ámpula contiene: Ditartrato de vinorelbina equivalente a 10 mg de Vinorelbina. Envase con un frasco ámpula con 1 ml,Pieza
@@ -1217,7 +1222,7 @@
 010.000.5265.01,Imipenem y cilastatina. Solución Inyectable. Cada frasco ámpula con polvo contiene: Imipenem monohidratado equivalente a 500 mg de imipenem. Cilastatina sódica equivalente a 500 mg de cilastatina. Envase con 25 frascos ámpula,Pieza
 010.000.5267.00,Fluconazol. Cápsula o Tableta. Cada Cápsula o Tableta contiene: Fluconazol 100 mg. Envase con 10 Cápsulas o Tabletas,Pieza
 010.000.5268.00,Ganciclovir. Solución Inyectable. Cada frasco ámpula con liofilizado contiene: Ganciclovir sódico equivalente a 500 mg de ganciclovir. Envase con un frasco ámpula y una ampolleta con 10 ml de diluyente,Pieza
-010.000.5270.00,Didanosina. Tableta. Masticable cada tableta contiene: Didanosina 100 mg. Envase con 60 Tabletas,Pieza
+010.000.5270.00,Didanosina. Tableta Masticable. Cada tableta contiene: Didanosina 100 mg. Envase con 60 Tabletas,Pieza
 010.000.5273.00,Zidovudina. Solución Oral. Cada 100 ml contienen: Zidovudina 1 g. Envase con 240 ml,Pieza
 010.000.5274.00,Zidovudina. Cápsula. Cada Cápsula contiene: Zidovudina 250 mg. Envase con 30 Cápsulas,Pieza
 010.000.5275.00,Etravirina. Tableta. Cada Tableta contiene: Etravirina 100 mg. Envase con 120 Tabletas,Pieza
@@ -1434,6 +1439,7 @@
 010.000.5505.00,Celecoxib. Cápsula. Cada cápsula contiene: Celecoxib 100 mg. Envase con 20 Cápsulas,Pieza
 010.000.5506.00,Celecoxib. Cápsula. Cada cápsula contiene: Celecoxib 200 mg. Envase con 10 Cápsulas,Pieza
 010.000.5541.00,Letrozol. Gragea o Tableta. Cada Gragea o Tableta contiene: Letrozol 2.5 mg. Envase con 30 Grageas o Tabletas,Pieza
+010.000.5541.01,Letrozol. Gragea o Tableta. Cada Gragea o Tableta contiene: Letrozol 2.5 mg. Envase con 30 Grageas o Tabletas,Pieza
 010.000.5543.00,Galsulfasa. Solución Inyectable. Cada frasco ámpula contiene: Galsulfasa 5 mg. Envase con un frasco ámpula con 5 ml (1 mg/ml),Pieza
 010.000.5544.00,Rivaroxabán. Comprimido. Cada Comprimido contiene: Rivaroxabán 10 mg. Envase con 10 Comprimidos,Pieza
 010.000.5544.01,Rivaroxabán. Comprimido. Cada Comprimido contiene: Rivaroxabán 10 mg. Envase con 30 Comprimidos,Pieza
@@ -2005,8 +2011,8 @@
 020.000.0145.00,Vacuna antineumocóccica. Suspensión Inyectable. Cada dosis de 0.5 ml contiene: Sacáridos del antígeno capsular del Streptococcus serotipos: 4 Pneumoniae: 2 µg. Streptococcus serotipos: 9V Pneumoniae: 2 µg. Streptococcus serotipos: 14 Pneumoniae: 2 µg. Streptococcus serotipos: 18C Pneumoniae: 2 µg. Streptococcus serotipos: 19F Pneumoniae: 2 µg. Streptococcus serotipos: 23F Pneumoniae: 2 µg. Streptococcus serotipos: 6B Pneumoniae: 4 µg. Proteína diftérica CRM197 20 µg. Envase con un frasco ámpula de 0.5 ml,Pieza
 020.000.0145.01,Vacuna antineumocóccica. Suspensión Inyectable. Cada dosis de 0.5 ml contiene: Sacáridos del antígeno capsular del Streptococcus serotipos: 4 Pneumoniae: 2 µg. Streptococcus serotipos: 9V Pneumoniae: 2 µg. Streptococcus serotipos: 14 Pneumoniae: 2 µg. Streptococcus serotipos: 18C Pneumoniae: 2 µg. Streptococcus serotipos: 19F Pneumoniae: 2 µg. Streptococcus serotipos: 23F Pneumoniae: 2 µg. Streptococcus serotipos: 6B Pneumoniae: 4 µg. Proteína diftérica CRM197 20 µg. Jeringa prellenada de 0.5 ml y aguja (1 dosis),Pieza
 020.000.0146.00,Vacuna antineumocóccica. Solución Inyectable. Cada dosis de 0.5 ml contiene: Poliósidos purificados del Streptococcus pneumoniae serotipos 1 2 3 4 5 6B 7F 8 9N 9V 10A 11A 12F 1415B 17F 18C 19A 19F 20 22F 23F y 33F cada uno con 25µg. Envase con frasco ámpula de 0.5 ml,Pieza
-020.000.0146.01,Vacuna antineumocóccica. Solución Inyectable. Cada dosis de 0.5 ml contiene: Poliósidos purificados del Streptococcus pneumoniae serotipos 1 2 3 4 5 6B 7F 8 9N 9V 10A 11A 12F 1415B 17F 18C 19A 19F 20 22F 23F y 33F cada uno con 25 µg. Envase con frasco ámpula de 2.5 ml,Pieza
-020.000.0146.02,Vacuna antineumocóccica. Solución Inyectable. Cada dosis de 0.5 ml contiene: Poliósidos purificados del Streptococcus pneumoniae serotipos 1 2 3 4 5 6B 7F 8 9N 9V 10A 11A 12F 1415B 17F 18C 19A 19F 20 22F 23F y 33F cada uno con 25 µg. Envase con jeringa prellenada de 0.5 ml,Pieza
+020.000.0146.01,Vacuna antineumocóccica. Solución Inyectable. Cada dosis de 0.5 ml contiene: Poliósidos purificados del Streptococcus pneumoniae serotipos 1 2 3 4 5 6B 7F 8 9N 9V 10A 11A 12F 1415B 17F 18C 19A 19F 20 22F 23F y 33F cada uno con 25µg. Envase con frasco ámpula de 2.5 ml,Pieza
+020.000.0146.02,Vacuna antineumocóccica. Solución Inyectable. Cada dosis de 0.5 ml contiene: Poliósidos purificados del Streptococcus pneumoniae serotipos 1 2 3 4 5 6B 7F 8 9N 9V 10A 11A 12F 1415B 17F 18C 19A 19F 20 22F 23F y 33F cada uno con 25µg. Envase con jeringa prellenada de 0.5 ml,Pieza
 020.000.0147.00,Vacuna antineumocóccica conjugada con proteína d de haemophilus influenzae no tipificable (nhti). Suspensión Inyectable. Cada dosis de 0.5 ml contiene: Polisacáridos de Streptococcus pneumoniae serotipos 1 5 6B 7F 9V 14 23F 1 µg Polisacárido de Streptococcus pneumoniae serotipos 4 18C 19F 3 µg Conjugado a la proteína D de Haemophilus influenzae no tipificable 13 µg Conjugado a toxoide tetánico 8 µg Conjugado a toxoide diftérico 5 µg. Envase con 10 jeringas prellenadas cada una con una dosis de 0.5 ml,Pieza
 020.000.0147.01,Vacuna antineumocóccica conjugada con proteína d de haemophilus influenzae no tipificable (nhti). Suspensión Inyectable. Cada dosis de 0.5 ml contiene: Polisacáridos de Streptococcus pneumoniae serotipos 1 5 6B 7F 9V 14 23F 1 µg Polisacárido de Streptococcus pneumoniae serotipos 4 18C 19F 3 µg Conjugado a la proteína D de Haemophilus influenzae no tipificable 13 µg Conjugado a toxoide tetánico 8 µg Conjugado a toxoide diftérico 5 µg. Envase con 10 frascos ámpula cada uno con una dosis de 0.5 ml,Pieza
 020.000.0147.02,Vacuna antineumocóccica conjugada con proteína d de haemophilus influenzae no tipificable (nhti). Suspensión Inyectable. Cada dosis de 0.5 ml contiene: Polisacáridos de Streptococcus pneumoniae serotipos 1 5 6B 7F 9V 14 23F 1 µg Polisacárido de Streptococcus pneumoniae serotipos 4 18C 19F 3 µg Conjugado a la proteína D de Haemophilus influenzae no tipificable 13 µg Conjugado a toxoide tetánico 8 µg Conjugado a toxoide diftérico 5 µg. Envase con 100 frascos ámpula cada uno con una dosis de 0.5 ml,Pieza
@@ -4060,7 +4066,7 @@
 060.345.1717,Catéteres. Catéter de Stamey para drenaje suprapúbico compuesto por obturador tubo conector y catéter malecot. Longitud: Calibre: 30 cm. 14 Fr. Juego,Juego
 060.345.1725,Equipos. De tunelización con dilatador ureteral calibre 12 Fr y camisa de trabajo calibre 14 Fr distal y calibre 18 Fr proximal. Juego,Juego
 060.345.1741,"Equipos. De dilatadores uretrales semirrígidos de politetrafluoretileno de 6,8, 10, 12, 14, 16 Fr con guía de alambre de 0.038"". Juego",Juego
-060.345.1758,Aditamento para inflado de balones de catéteres de dilatación ureteral desechable. Pieza,Pieza
+060.345.1758,Equipos. Aditamento para inflado de balones de catéteres de dilatación ureteral desechable. Pieza,Pieza
 060.345.1790,Equipos. Para drenaje naso-biliar incluye: cable guía catéter de drenaje tubo nasal tubo de conexión de drenaje. Longitud: 250 cm. Calibre: 5 Fr. Juego,Juego
 060.345.1808,Equipos. Para drenaje naso-biliar incluye: cable guía catéter de drenaje tubo nasal tubo de conexión de drenaje. Longitud:250 cm. Calibre: 7 Fr. Juego,Juego
 060.345.1857,Equipos. Para utilizarse en máquinas cicladoras automáticas AMP en diálisis peritoneal. Consta de: conectores múltiples para infusión de 8 envases de líquido bolsa para calentamiento de líquido dializante bolsa para drenaje parcial bolsa colectora total con capacidad de 12 a 16 lts interconectadas mediante tubería de plástico grado médico estéril. Equipo,Equipo
@@ -6412,8 +6418,8 @@
 060.898.0579,Fijación interna para columna vertebral de titanio o aleación de titanio. Todos los componentes deben ser compatibles entre sí. La selección del material y las medidas estará a cargo de las unidades de atención de acuerdo a sus necesidades. Tornillo cerrado para esponjosa para fijar placa cervical anterior. De 3.5 mm a 4.8 mm de diámetro. Longitud de 10.0 mm a 28.0 mm de titanio o aleación de titanio. Para los Sistemas. que lo requieran. Incluye medidas intermedias entre las especificadas. Pieza,Pieza
 060.898.0686,Fijación interna para columna vertebral de titanio o aleación de titanio. Todos los componentes deben ser compatibles entre sí. La selección del material y las medidas estará a cargo de las unidades de atención de acuerdo a sus necesidades. Tornillo transpedicular de 3.5 mm a 5.5 mm de diámetro de apertura lateral o apertura dorsal. Longitud de 35.0 mm a 55.0 mm. Incluye medidas intermedias entre las especificadas. Pieza,Pieza
 060.898.0736,Clavos intramedulares. Todos los componentes deben ser compatibles entre sí. La selección del material y las medidas estará a cargo de las unidades de atención de acuerdo a sus necesidades. Clavo para fémur. Sólido o canulado bloqueado para artrodesis de rodilla. Tornillo bloqueador para el sistema de enclavado intramedular. Para los sistemas que lo requieran. Pieza,Pieza
-060.898.0744,Tornillo de expansión con agarradera de plástico. Pieza,Pieza
-060.898.0751,Tornillo de expansión rápida (mino expander) con antenas. Pieza,Pieza
+060.898.0744,Tornillos. Tornillo de expansión con agarradera de plástico. Pieza,Pieza
+060.898.0751,Tornillos. Tornillo de expansión rápida (mino expander) con antenas. Pieza,Pieza
 060.898.0769,Clavos intramedulares. Todos los componentes deben ser compatibles entre sí. La selección del material y las medidas estará a cargo de las unidades de atención de acuerdo a sus necesidades. Tornillo de cierre para casquillo de bloqueo para los clavos que lo requieran. Prolongación: 0 mm a 20 mm. Pieza,Pieza
 060.898.0850,Clavos intramedulares. Todos los componentes deben ser compatibles entre sí. La selección del material y las medidas estará a cargo de las unidades de atención de acuerdo a sus necesidades. Tornillo para bloqueo proximal autorroscante. Longitud de 70.0 mm a 100.0 mm. Incluye medidas intermedias entre las especificadas. Para los sistemas que lo requieran. Pieza,Pieza
 060.898.0942,Clavos intramedulares. Todos los componentes deben ser compatibles entre sí. La selección del material y las medidas estará a cargo de las unidades de atención de acuerdo a sus necesidades. Tornillo de cierre para clavo humeral sólido o canulado en titanio o aleación de titanio. Además dimensiones intermedias o equivalentes entre las especificadas. Para los Sistemas. que lo requieran. Prolongación: 0 mm a 15.0 mm. Pieza,Pieza
@@ -10210,7 +10216,7 @@
 531.942.0039,Endoscopio neuroquirúrgico flexible. Equipo de endoscopia flexible para visualización de estructuras cerebrales y medulares con fines diagnósticos y terapéuticos. Consta de los siguientes elementos: neuroendoscopio flexible de fibra óptica; canales de trabajo y de succión e irrigación. Las especificaciones de cada uno de los elementos señalados serán determinadas por las unidades médicas de acuerdo a sus necesidades,Pieza
 531.944.0019,Videoscopio Flexible. Para utilizarse en pacientes adultos en procedimientos endoscópicos tanto en el quirófano como en el servicio de urgencias o en la unidad de cuidados intensivos. Para usarse con monitor. Videoscopio flexible estéril desechable para endoscopía flexible de las vías respiratorias. Es apto para procedimientos de lavado broncoalveolar y lavado bronquial. Cuando se conecta al monitor portátil la resolución de las imágenes permite una rápida identificación de las referencias anatómicas. Se compone de mango palanca de control conector de aspiración cable de transmisión de la señal de imagen al monitor conector del cable puerto del canal de trabajo botón de aspiración conexión del tubo cable de inserción zona de articulación para maniobrar extremo distal que contiene la cámara la fuente de luz y la salida del canal de trabajo el entubador para facilitar la introducción de jeringas luer y accesorios endoscópicos blancos a través del canal de trabajo y el tubo de protección para el cable de inserción durante el transporte y almacenamiento. Es un videoscópio ultrafino flexible y consta de intubador palanca de control conector de aspiración zona de articulación puerto del canal de trabajo botón de aspiración extremo distal y la conexión del tubo. Disponible en diversos modelos y dimensiones,Pieza
 531.949.0016,Unidad de vitrectomía. Equipo que se utiliza para extraer el humor vitreo del segmento anterior y posterior del globo ocular con fines de tratamiento con técnica invasiva. Con las siguientes funciones: Aspiración de control lineal a pedal y modo de aspiración o vacío tipo venturi. Facoemulsificación con al menos tres modos de operación distintos. Vitrectomía por sistema de guillotina con frecuencia de corte y aspiración regulables. Coagulación bipolar odiatermia intraocular. Endoiluminación por fibra óptica. Control remoto por pedal multifunciones. Pedal multifunciones con protección contra agua con dos pinzas bipolares una recta y una angulada. Pieza de mano para facoemulsificación. Pieza,Pieza
-531.970.0018,Vibrador pediátrico. Vibrador pediátrico,Pieza
+531.970.0018,Vibrador pediátrico. Pieza,Pieza
 533.008.0309,"Afiladores. Para cuchillas de microtomo con control de velocidad de caída de la cuchilla capaz de afilar una cuchilla en 30 minutos; para desbastar afilar y asentar; que use al menos perfil ""C"" de cuchilla con control de velocidad de caída de la cuchilla control de tiempo de afilado de 1 hasta 5 horas tiempo de facetado de 5 10 o 25 segundos por lado de la cuchilla o sin cambio de afilado de cuchillas unilaterales para perfil D; control de ángulo de afilado control mínimo y máximo de presión de cuchilla contra superficie de afilado soporte para cuchillas intercambiables para perfil C y D; pasta de diamante para afilado de cuchillas de 1 2 3 6 8 y 15 micras.",Pieza
 533.008.0358,Afiladores. Eléctrico para cuchillos y tijeras con diamante abrasivo,Pieza
 533.020.0022,Agitadores. Agitador eléctrico para pipetas tipo Thoma con pinzas para 6 pipetas con control de tiempo de 30 a 60 segundos con 1550 oscilaciones por minuto,Pieza
@@ -10343,7 +10349,7 @@
 533.578.0044,Lavadores para pruebas inmunoenzimaticas (ELISA). Lector de microplacas. Especialidad(es): Inmunología. Servicio(s): Laboratorio Clínico. Descripción: Lector automático o semiautomático para lectura de microplacas de mínimo 12 pozos. Almacenamiento de curvas Standard. Transformación de fórmulas. Longitud de onda de mínimo 340 nm y opciones U.V. Interfase por puerto paralelo,Pieza
 533.578.0056,Analizadores. Lector y analizador digital de placas y paneles microbiologicos. Digitalizador de análisis de imágenes para lectura de placas de cultivo y paneles microbiológicos. Descripción: Consta de: Lectura y medición fotométrica de paneles bioquímicos y agares cromogénicos de identificación microbiana: bacterias y levaduras. Sistema digital de imágenes e iluminación para captar imágenes. Estación de trabajo: Teclado Impresora PC con disco duro de 80 GB o mayor y memoria RAM de 512 MB o mayor. Software: Para medición de halos de inhibición con reporte de potencia de antibióticos con análisis gráfico. Para conteo de colonias en cultivos microbiológicos y caracterización de las colonias observadas en un cultivo,Pieza
 533.580.0016,Liofilizadores. Con condensador de 6 litros de capacidad con 12 frascos,Pieza
-533.603.0019,Manopla. Manopla,Pieza
+533.603.0019,Manopla. Manopla. Pieza,Pieza
 533.604.0026,Mecheros. Mechero de metal inoxidable con quemador de alta temperatura con regulador de flama punta estabilizadora con manguera adecuada de hule látex de 2 a 3 metros de longitud. Altura 18.7 cm rejilla de 30 mm de diámetro,Pieza
 533.604.0042,Mecheros. Mechero de metal inoxidable con quemador tipo bunsen. Con regulador de flama punta estabilizadora. Con manguera adecuada de hule látex de 2 a 3 metros de longitud. Altura 14 cm,Pieza
 533.608.0055,Marco metálico para hombro. Marco metálico para hombro. De aluminio reforzado de 91x62 cm. y espesor de 2.5 cm. con siete salientes tubulares de 5 cm. y separadas entre sí a una distancia de 10 cm. El marco se apoya en una base metálica con 2 perforaciones para fijarse a la mesa de tratamientos,Pieza
@@ -10531,13 +10537,13 @@
 535.567.0521,Legra. Legra Taler sencilla,Pieza
 535.593.0966,"Sistema Universal De Columna. ""U. S. S. Llave tubular diámetro 11 mm. con mango en L.",Pieza
 535.606.0219,"Sistema Universal De Columna. ""U. S. S. Mandril universal con mango en forma de ""T"".",Pieza
-535.608.0571,Mango para bisturí No7 corto,Pieza
-535.608.0589,Mango para bisturí del No 3 largo,Pieza
+535.608.0571,Mango para bisturí. Mango para bisturí No7 corto,Pieza
+535.608.0589,Mango para bisturí. Mango para bisturí del No 3 largo,Pieza
 535.618.0454,Martillos. Con gancho liso: longitud de 20 cm. Pieza,Pieza
 535.618.0462,Martillos. Con gancho estriado: longitud de 23 cm. Pieza,Pieza
 535.618.0710,Martillos. Martillo Percusor con anillo de hule y mango de metal o nylon o bambú. Grande,Pieza
 535.618.0728,Martillos. Martillo Percusor con anillo de hule y mango de metal o nylon o bambú. Pequeño,Pieza
-535.618.1411,Mango para bisturí del No 4 corto,Pieza
+535.618.1411,Mango para bisturí. Mango para bisturí del No 4 corto,Pieza
 535.618.1429,Martillos. Martillo Buck percutor para reflejos con cilindro de hule mango sólido con aguja y pincel de 180 mm. De longitud,Pieza
 535.618.1437,Martillos. Martillo Taylor percusor mango macizo,Pieza
 535.701.0031,Pinzas. Pinza Raney para aplicar y retirar clips o grapas,Pieza
@@ -11104,9 +11110,9 @@
 537.155.0087,Calibrador. De presión con cinco domos de ajuste desechable con tubo de extensión macho-hembra,Equipo
 537.155.0111,Calibrador. Calibrador Cone con puntas,Pieza
 537.155.0228,Calibrador. Calibrador para cabeza de fémur,Pieza
-537.155.0236,Sistema De Prótesis De Rodilla. Instrumentos Para Rótula. Calibrador patelar,Pieza
+537.155.0236,Calibrador. Sistema De Prótesis De Rodilla. Instrumentos Para Rótula. Calibrador patelar,Pieza
 537.155.0244,Calibrador. Calibrador tipo Jameson de 8 a 9 cm de longitud y escala de 0 a 80 mm,Pieza
-537.155.0251,Sistema de calibradores en tamaño chico mediano y grande,Pieza
+537.155.0251,Calibrador. Sistema de calibradores en tamaño chico mediano y grande,Pieza
 537.172.0011,Camisa. Camisa de centraje 3.5/2.5 mm de diámetro,Pieza
 537.172.0029,Camisa. Camisa de centraje corta para machuelo,Pieza
 537.172.0037,Camisa. Camisa de centraje larga para la llave en T,Pieza
@@ -11864,7 +11870,7 @@
 537.327.0544,Elevador para el sistema nervioso. Elevador Rhoton general No 4 pequeño,Pieza
 537.327.0551,Elevador Buco Dentomaxilar. Elevador Apical Flohr con mango metálico con brazo angulado extremo fino y corto derecho,Pieza
 537.327.0569,Elevador para el sistema nervioso. Elevador Rhoton general No 5 grande,Pieza
-537.327.0577,Elevador de periostio. Juego de 4 y 6 mm,Pieza
+537.327.0577,Elevador de periostio. Juego de 4 y 6 mm. Juego,Pieza
 537.327.0601,Elevador Buco Dentomaxilar. Elevador Cronin angulado hoja 4 x 8 mm 16 cm de longitud,Pieza
 537.327.0700,Elevador Buco Dentomaxilar. Elevador Apical Flohr con mango metálico con brazo angulado extremo fino y corto izquierdo,Pieza
 537.327.0809,Elevador Buco Dentomaxilar. Elevador tipo Cryer White de bandera derecho con mango metálico extremo en ángulo obtuso y hoja grande,Pieza
@@ -12265,7 +12271,7 @@
 537.440.1452,Gancho. Gancho Jackson para traqueotomía,Pieza
 537.440.1478,Gancho. Oftalmología. Gancho Jameson 12.5 cm de longitud,Pieza
 537.440.1486,Gancho. Gancho femoral para cemento: chico mediano y grande de 50 cm de longitud,Pieza
-537.440.1494,Gancho. Juego de ganchos para sistema retractor tipo Lone Star de 5mm paquete de 8 ganchos,Pieza
+537.440.1494,Gancho. Juego de ganchos para sistema retractor tipo Lone Star de 5mm paquete de 8 ganchos. Juego,Pieza
 537.452.0079,Histerómetro. Histerómetro Sims rígido con graduación en centímetros,Pieza
 537.455.0035,Gradilla. Sistema Para Armazón De Techo Cotiloideo. Gradilla para tornillos de esponjosa y cortical,Pieza
 537.457.0033,Gubia. Gubia Beyer quijadas angostas longitud de 170 a 180 mm,Pieza
@@ -12764,9 +12770,9 @@
 537.683.0104,Equipo de minifragmentos para mano y pie. Patrón para medir brocas tornillos clavos de Steiman y alambre,Pieza
 537.684.0012,Cirugía laparoscópica. Pasa sutura Cuschieri de curvatura variable larga con mango y tubo externo. Longitud de trabajo 360 mm (opera en trócar de 6 mm),Pieza
 537.684.0020,Cirugía laparoscópica. Pasa sutura Cuschieri de curvatura variable pequeña con mango y tubo externo. Longitud de trabajo 360 mm (opera en trócar de 6 mm),Pieza
-537.690.0014,Percutor eléctrico. Percutor eléctrico,Pieza
+537.690.0014,Percutor eléctrico. Percutor eléctrico. Pieza,Pieza
 537.690.0022,Percutor neonatal. Percutor neonatal con mango flexible,Pieza
-537.690.0030,Percutor neumático. Percutor neumático,Pieza
+537.690.0030,Percutor neumático. Percutor neumático. Pieza,Pieza
 537.690.0048,Sistema Para Medir Acetábulo. Pieza sobrepuesta de plástico de 28 a 32 mm. de diámetro,Pieza
 537.690.0055,Sistema Para Medir Acetábulo. Pieza sobrepuesta metálica para cotilo de borde plano de 28 a 58 mm. de diámetro,Pieza
 537.695.0019,Perforador. Perforador Ralk tipo pistola,Pieza
